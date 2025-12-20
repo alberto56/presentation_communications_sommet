@@ -3,7 +3,7 @@ backend:
   repo: alberto56/presentation_communications_sommet
   branch: gh-pages
   base_url: https://suresh-issue-82.dcycleproject.org
-  auth_endpoint: /auth/github/repo/6934dddbc79a475eb309bcbd
+  auth_endpoint: /auth/github/repo/6946e3da7c6e2b059bec667b
 media_folder: static/uploads
 public_folder: /uploads
 collections:
